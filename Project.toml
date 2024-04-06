@@ -1,0 +1,5 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+ClimaOcean = "0376089a-ecfe-4b0e-a64f-9c555d74d754"
+CubicSplines = "9c784101-8907-5a6d-9be6-98f00873c89b"
+Oceananigans = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
